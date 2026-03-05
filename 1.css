@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: arial;
+}
+canvas {
+  background: black;
+  display: block;
+  margin: auto;
+  border: 2px solid white;
+}
